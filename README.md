@@ -13,7 +13,7 @@ This program reads [.txt] file type and tells how many character, line, emoticon
 # Expected output
 javac DocReader.java  
 java DocReader.java input1.txt  
-Output:  
+## Output:  
 Character count: 1914  
 Total emoticons: 2  
 Total line: 9  
